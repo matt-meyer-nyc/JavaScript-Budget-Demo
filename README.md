@@ -12,4 +12,4 @@
 
 
 
-*-thank you to Jonas Schmedtmann for guidance to create this via his Udemy course "The Complete JavaScript Course"!*
+*-Thank you to Jonas Schmedtmann for guidance to create this via his Udemy course "The Complete JavaScript Course"!*
